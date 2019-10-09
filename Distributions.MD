@@ -8,7 +8,8 @@ This file consists of descriptions, references, and examples for common distribu
 - The Poisson distribution is the binomial distribution as the number of trials approaches infinity.
 
 ### Exponential Distribution
-- The exponential distribution is the geometric distribution as the number of trials approaches infinity. In its most common use case, it models the probability that a certain amount of time elapses before an event occurs, where the probability of the event occuring at one instance is independent of the probability of that event occuring at a prior instance
+- The exponential distribution is the geometric distribution as the number of trials approaches infinity. In its most common use case, it models the probability that a certain amount of time elapses before an event occurs, where the probability of the event occuring at one instance is independent of the probability of that event occuring at a prior instance.
+- It can be alternatively defined as modeling the time until 1 success in a Poisson process
 - A good description of the distribution as well the intuition behind it can be found here: https://www.probabilitycourse.com/chapter4/4_2_2_exponential.php
 
 ### Gamma Distribution
